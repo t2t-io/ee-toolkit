@@ -1,0 +1,26 @@
+{
+  "name": "ee-toolkit",
+  "version": "0.0.1",
+  "description": "tools for review schematic design",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "csv-parse": "^4.8.5",
+    "install": "^0.13.0",
+    "kicad-netlist-to-json": "*",
+    "livescript": "^1.6.0",
+    "yargs": "^14.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stm32",
+    "schematic",
+    "ee",
+    "iot"
+  ],
+  "author": "yagamy@t2t.io",
+  "license": "MIT"
+}
